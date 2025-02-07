@@ -9,6 +9,7 @@ A curated collection of computer graphics learning resources and references.
 
 ## Multi-Threading
 - [Beej's Guide to C Programming - Multithreading](https://beej.us/guide/bgc/html/split/multithreading.html)
+- [From Vulkan's Perspecive](https://vkguide.dev/docs/extra-chapter/multithreading/)
 
 ## Vulkan
 - [Yet Another Blog Explaining Vulkan Synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
