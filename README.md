@@ -1,4 +1,4 @@
-# Vulkan-Reference-Links
+  # Vulkan-Reference-Links
 Vulkan References for Study Links in one place
 
 A curated collection of computer graphics learning resources and references.
@@ -18,6 +18,7 @@ A curated collection of computer graphics learning resources and references.
 ## Ray Tracing in Vulkan
 
 - [TU Wien](https://www.youtube.com/watch?v=12k_frqw7tM)
+- [XDC](https://www.youtube.com/watch?v=-FvAJmq8NvI)
 - [Khronos Blog](https://www.khronos.org/blog/ray-tracing-in-vulkan#blog_Ray_Queries)
 - [Khronos Docs](https://docs.vulkan.org/guide/latest/extensions/ray_tracing.html)
 
