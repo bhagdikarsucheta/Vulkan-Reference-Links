@@ -22,5 +22,5 @@ A curated collection of computer graphics learning resources and references.
 - [Khronos Docs](https://docs.vulkan.org/guide/latest/extensions/ray_tracing.html)
 
 - [Khronos Specs](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
-- [Diharaw](https://github.com/diharaw/hybrid-rendering)
+- [Diharaw : Hybrid Rendering](https://github.com/diharaw/hybrid-rendering)
 - [William Leww](https://github.com/WilliamLewww/vulkan_ray_tracing_minimal_abstraction/tree/master)
