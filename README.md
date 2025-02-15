@@ -15,12 +15,12 @@ A curated collection of computer graphics learning resources and references.
 ## Vulkan
 - [Yet Another Blog Explaining Vulkan Synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
   
-## ray Tracing in Vulkan
-- [Concept Understanding] :
-- [TU Wien] (https://www.youtube.com/watch?v=12k_frqw7tM)
-- [Khronos Blog] (https://www.khronos.org/blog/ray-tracing-in-vulkan#blog_Ray_Queries)
-- [Khronos Docs] (https://docs.vulkan.org/guide/latest/extensions/ray_tracing.html)
+## Ray Tracing in Vulkan
+- Concept Understanding :
+- [TU Wien](https://www.youtube.com/watch?v=12k_frqw7tM)
+- [Khronos Blog](https://www.khronos.org/blog/ray-tracing-in-vulkan#blog_Ray_Queries)
+- [Khronos Docs](https://docs.vulkan.org/guide/latest/extensions/ray_tracing.html)
 
-- [Khronos Specs] (https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
-- [Diharaw] (https://github.com/diharaw/hybrid-rendering)
-- [William Leww] (https://github.com/WilliamLewww/vulkan_ray_tracing_minimal_abstraction/tree/master)
+- [Khronos Specs](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
+- [Diharaw](https://github.com/diharaw/hybrid-rendering)
+- [William Leww](https://github.com/WilliamLewww/vulkan_ray_tracing_minimal_abstraction/tree/master)
