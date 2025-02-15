@@ -16,7 +16,7 @@ A curated collection of computer graphics learning resources and references.
 - [Yet Another Blog Explaining Vulkan Synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
   
 ## Ray Tracing in Vulkan
-- Concept Understanding :
+
 - [TU Wien](https://www.youtube.com/watch?v=12k_frqw7tM)
 - [Khronos Blog](https://www.khronos.org/blog/ray-tracing-in-vulkan#blog_Ray_Queries)
 - [Khronos Docs](https://docs.vulkan.org/guide/latest/extensions/ray_tracing.html)
