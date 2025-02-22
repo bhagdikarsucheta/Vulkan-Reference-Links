@@ -25,3 +25,8 @@ A curated collection of computer graphics learning resources and references.
 - [Khronos Specs](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
 - [Diharaw : Hybrid Rendering](https://github.com/diharaw/hybrid-rendering)
 - [William Leww](https://github.com/WilliamLewww/vulkan_ray_tracing_minimal_abstraction/tree/master)
+
+## Dynamic Rendering in Vulkan
+- [Khronos](https://docs.vulkan.org/samples/latest/samples/extensions/dynamic_rendering/README.html)
+- [Lesley Lai](https://lesleylai.info/en/vk-khr-dynamic-rendering/)
+- [Medium](https://quadbit.medium.com/vulkan-dynamic-rendering-f993a9a8ca58)
